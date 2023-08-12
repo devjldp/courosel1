@@ -74,12 +74,12 @@ figure img {
     height: 200px;
   }
   .container {
-    max-width: 100%;
+    width: 100vw;
     margin: auto;
     margin-top: 5%;
   }
   .container.wide{
-    width: 100%;
+    width: 80%;
     align-items: center;
     justify-content: center;
   }
